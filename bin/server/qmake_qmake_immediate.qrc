@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+<file alias="database.sqlite3">/home/brusentsov/progbase3/src/myserver/database.sqlite3</file>
+</qresource>
+</RCC>
